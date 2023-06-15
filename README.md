@@ -8,4 +8,4 @@ If you found the code useful, please consider citing the following paper:
 
 **Ganesan, Prasanth, et al. "Quantifying a spectrum of clinical response in atrial tachyarrhythmias using spatiotemporal synchronization of electrograms." Europace (2023): euad055.**
 
-**Link to paper: https://academic.oup.com/europace/article/25/5/euad055/7080278 **
+Link to the paper: https://academic.oup.com/europace/article/25/5/euad055/7080278
